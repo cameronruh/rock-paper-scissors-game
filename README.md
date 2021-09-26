@@ -44,10 +44,6 @@ In the root directory of VS Code, create a new file called ".env", and update th
 Run the Python Script:
 
 ```py
-python app/game.py
+python game.py
 
-# alternative module-style invocation (only required if importing from one file to another):
-python -m app.game
-```
-
-> NOTE: if you see an error like "ModuleNotFoundError: No module named '...'", it's because the given package isn't installed, so run the `pip` command above to ensure that package has been installed into the virtual environment.
+# follow the instructions to play the Rock, Paper, Scissors game. 
