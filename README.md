@@ -1,6 +1,6 @@
 # rock-paper-scissors-game
 
-# read me instructions adapted from Prof. Rossetti's example on Github: https://raw.githubusercontent.com/prof-rossetti/my-first-python-app/main/README.md
+## read me instructions adapted from Prof. Rossetti's example on Github: https://raw.githubusercontent.com/prof-rossetti/my-first-python-app/main/README.md
 
 ## Prerequisites
 
