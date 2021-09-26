@@ -10,9 +10,9 @@
 
 ## Installation
 
-Fork this repository: https://github.com/cameronruh/rock-paper-scissors-game under your own control, then downlowd your remote copy onto your local computer and open in VS Code
+Fork this repository: https://github.com/cameronruh/rock-paper-scissors-game under your own control, then download your remote copy onto your local computer and open in VS Code
 
-Then navigate there from the command line (subsequent commands assume you are running them from the local repository's root directory):
+Then, in the command line, run commands from your local repository's root directory:
 
 ```sh
 cd rock-paper-scissors-game
@@ -25,7 +25,7 @@ conda create -n rps-env python=3.8
 conda activate rps-env
 ```
 
-After activating the virtual environment, install package dependencies (see the ["requirements.txt"](/requirements.txt) file) through pip install. 
+Next, install package dependencies (see the ["requirements.txt"](/requirements.txt) file) through pip install. 
 
 ```sh
 pip install -r requirements.txt
