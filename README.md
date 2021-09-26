@@ -41,9 +41,8 @@ In the root directory of VS Code, create a new file called ".env", and update th
 
 ## Usage 
 
-Run the Python Script:
+Run the Python Script and follow the given instructions to play the Rock, Paper, Scissors game. 
+
 
 ```py
 python game.py
-
-# follow the instructions to play the Rock, Paper, Scissors game. 
